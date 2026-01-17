@@ -1,0 +1,16 @@
+# Logs
+logs/
+*.log
+
+# Cache / runtime
+universe/
+Instances/
+
+# Assets grandes / builds internos
+*.zip
+*.hyt
+HytaleServer.aot
+
+# Credenciais
+.hytale-downloader-credentials.json
+
